@@ -1,0 +1,10 @@
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\bin\Debug\Guia_Telefonica1.exe.config
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\bin\Debug\Guia_Telefonica1.exe
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\bin\Debug\Guia_Telefonica1.pdb
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.csproj.AssemblyReference.cache
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.Form1.resources
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.Properties.Resources.resources
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.csproj.GenerateResource.cache
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.csproj.CoreCompileInputs.cache
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.exe
+E:\Maxi\PROGRAMACION\.NET\Practicas\Guia_Telefonica1\Guia_Telefonica1\obj\Debug\Guia_Telefonica1.pdb

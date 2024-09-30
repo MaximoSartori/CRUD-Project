@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A2B8-65AD-467A-B352-8346D385BACF}|Guia_Telefonica1\\Guia_Telefonica1.csproj|e:\\maxi\\programacion\\.net\\practicas\\guia_telefonica1\\guia_telefonica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158A2B8-65AD-467A-B352-8346D385BACF}|Guia_Telefonica1\\Guia_Telefonica1.csproj|solutionrelative:guia_telefonica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158A2B8-65AD-467A-B352-8346D385BACF}|Guia_Telefonica1\\Guia_Telefonica1.csproj|E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\guia_telefonica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D158A2B8-65AD-467A-B352-8346D385BACF}|Guia_Telefonica1\\Guia_Telefonica1.csproj|solutionrelative:guia_telefonica1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\Guia_Telefonica1\\Form1.cs",
+              "RelativeDocumentMoniker": "Guia_Telefonica1\\Form1.cs",
+              "ToolTip": "E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\Guia_Telefonica1\\Form1.cs",
+              "RelativeToolTip": "Guia_Telefonica1\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0sAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:16:29.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\Guia_Telefonica1\\Form1.cs",
+              "RelativeDocumentMoniker": "Guia_Telefonica1\\Form1.cs",
+              "ToolTip": "E:\\Maxi\\PROGRAMACION\\.NET\\Practicas\\Guia_Telefonica1\\Guia_Telefonica1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guia_Telefonica1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T20:13:50.809Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
